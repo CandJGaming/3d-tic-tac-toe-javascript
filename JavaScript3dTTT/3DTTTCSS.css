@@ -1,0 +1,27 @@
+body {
+	background-color: rgb(100,100,100);
+}
+
+#id5 {
+  position: absolute;
+  top: 10px;
+  left: 520px;
+}
+
+#id4 {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+}
+
+#id6 {
+  position: absolute;
+  top: 220px;
+  left: 520px;
+}
+
+#id7 {
+  position: absolute;
+  top: 430px;
+  left: 520px;
+}
